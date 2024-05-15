@@ -461,27 +461,6 @@ ul {
 }
 
 
-/* .progress-bar-controls::-webkit-slider-runnable-track {
-    background-color: #ddd;
-    border-radius: 6.25rem;
-    height: 0.2rem;
-}
-
-.progress-bar-controls::-webkit-slider-thumb {
-    appearance: none;
-    
-}
-.progress-bar-controls::-webkit-slider-thumb:hover{
-    appearance:auto;
-} */
-
-
-
-
-
-
-
-
 
 @media(max-width:1000px) {
     .hide {
